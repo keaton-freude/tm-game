@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+tm-game/tm-game/Debug
+tm-game/tm-game/Release
